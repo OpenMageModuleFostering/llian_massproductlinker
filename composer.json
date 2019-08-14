@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Llian_MassProductLinker",
+    "type": "magento-module",
+    "license": "GNU-General-Public-License-(GPL)",
+    "homepage": "",
+    "description": "Adds mass actions for cross-selling, up-selling, and relating products in Magento's manage product grid",
+    "authors": [
+    {
+        "name": "Llian",
+        "email": "info@llian.de"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
